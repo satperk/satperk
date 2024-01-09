@@ -7,7 +7,6 @@ I’m currently updating this github to combine both of my seperate github accou
 
 
 
-- 
 - 💞️ I’m looking to collaborate on Projects and Startups!
 - 📫 How to reach me satperkari@gmail.com
 
