@@ -1,9 +1,16 @@
 - 👋 Hi, I’m Sathvik 
 - 👀 I’m interested in Computer Science and Statistics.
-- 🌱 I’m currently updating this github to combine both of my seperate github accounts to encapsulate all projects!
+
+🚧 UNDER CONSTRUCTION 🚧
+
+I’m currently updating this github to combine both of my seperate github accounts to encapsulate all projects
+
+
+
+- 
 - 💞️ I’m looking to collaborate on Projects and Startups!
 - 📫 How to reach me satperkari@gmail.com
-- ⚡ Fun fact: ...
+
 
 <!---
 satperk/satperk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
