@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sathvik</h1>
 <h3 align="center">Computer Science & Statistics student at UIUC</h3>
 
+- 🚧 Currently under construction, combining two seperate github accounts 🚧
+
 - 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **Data Related Projects**
