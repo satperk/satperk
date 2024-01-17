@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>I'm Sathvik! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><em>Computer Science & Statistics student at University of Illinois at Urbana-Champaign(UIUC) <img src="https://giphy.com/gifs/uofillinois-universityofillinois-graingerengineering-illinoismatse-HFwyriA2xke4GQcKx4" width="50"></h2>
+<p><em>Computer Science & Statistics student at University of Illinois at Urbana-Champaign(UIUC) <img src="https://ibb.co/HDcytDy" width="50"></h2>
 </em></p>
 
 
