@@ -1,8 +1,8 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>I'm Sathvik! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><em>Computer Science & Statistics student at University of Illinois at Urbana-Champaign(UIUC) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<p><em>Computer Science & Statistics student at University of Illinois at Urbana-Champaign(UIUC) <img src="https://giphy.com/gifs/uofillinois-universityofillinois-graingerengineering-illinoismatse-HFwyriA2xke4GQcKx4" width="50"></h2>
 </em></p>
 
-<iframe src="https://giphy.com/embed/HFwyriA2xke4GQcKx4" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uofillinois-universityofillinois-graingerengineering-illinoismatse-HFwyriA2xke4GQcKx4">via GIPHY</a></p>
+
 
 
 ![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule)
