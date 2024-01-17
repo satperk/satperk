@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **Data Related Projects**
+- 👯 I’m looking to collaborate on **Software**, **Data Projects**, **Product related Projects**
 
 
 
