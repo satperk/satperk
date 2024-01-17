@@ -3,7 +3,7 @@
 
 - 🚧 Currently under construction, combining two seperate github accounts 🚧
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **OCaml, JavaScript**
 
 - 👯 I’m looking to collaborate on **Software**, **Data Projects**, **Product related Projects**
 
