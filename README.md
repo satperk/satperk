@@ -3,7 +3,7 @@
 </em></p>
 
 
-![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
+![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule)
 ```python
 class satperk:
 
@@ -29,7 +29,7 @@ class satperk:
 if __name__ == '__main__':
     me = satperk()
     print(me)
-
+```
 
 - 🚧 Currently under construction, combining two seperate github accounts 🚧
 
