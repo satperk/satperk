@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>I'm Sathvik! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><em>Computer Science & Statistics student at University of Illinois at Urbana-Champaign(UIUC) at 
+<p><em>Computer Science & Statistics student at University of Illinois at Urbana-Champaign(UIUC)
 </em></p>
 
 
@@ -8,21 +8,17 @@
 class RafnixG:
 
     def __init__(self):
-        self.username = 'rafnixg'
-        self.name = 'Rafnix Guzmán'
-        self.position = 'Python Software Developer'
-        self.web = 'https://rafnixg.dev'
-        self.links = 'https://links.rafnixg.dev'
-        self.blog = 'https://blog.rafnixg.dev'
-        self.cv = 'https://resume.rafnixg.dev'
-        self.twitter = '@rafnixg'
+        self.username = 'satperk'
+        self.name = 'Sathvik P.'
+        self.position = 'Computer Science & Statistics Student'
+        self.university  = 'University of Illinois at Urbana-Champaign (UIUC)'
         self.code = {
-            'backend': ['Python', 'Odoo', 'Flask', 'Django', 'FastAPI', 'NodeJS', 'PHP'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
-            'devops': ['Docker', 'Linux', 'Jenkins', 'GitHub Actions', 'AWS', 'Proxmox'],
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Celery', 'Nginx'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'gRPC', 'ML', 'Tech Writer']
+            'backend': ['Python', 'Flask', 'Django', 'C++', 'Java'],
+            'database': ['MongoDB', 'SQL'],
+            'devops': ['Docker', 'AWS'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS'],
+            'tools': ['GIT', 'Jupyter notebook'],
+            'misc': ['OOP', 'Microservices', 'Figma', 'R']
         }
         self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 
