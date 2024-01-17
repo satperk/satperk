@@ -5,7 +5,7 @@
 
 ![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
 ```python
-class RafnixG:
+class satperk:
 
     def __init__(self):
         self.username = 'satperk'
@@ -27,7 +27,7 @@ class RafnixG:
 
 
 if __name__ == '__main__':
-    me = RafnixG()
+    me = satperk()
     print(me)
 
 
