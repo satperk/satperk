@@ -37,7 +37,7 @@ if __name__ == '__main__':
 
 - 🌱 I’m currently learning **OCaml, JavaScript**
 
-- 👯 I’m looking to collaborate on **Software**, **Data Projects**, **Product related Projects**
+- 👯 I’m looking to collaborate on **Software**, **Data**, and **Product related Projects**
 
 
 
